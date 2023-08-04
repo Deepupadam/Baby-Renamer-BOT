@@ -36,8 +36,8 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 The Name is : {}
-├👑 ADMIN-TG : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
-├👑 Instagram : <a href=https://www.instagram.com/LazyDeveloperrr>C-Insta</a> 
+├👑 ADMIN-TG : <a href=https://t.me/BoSs_A10>🍃⃝ ලബꫂസ്സᤨ ⸙⃝💔</a> 
+├👑 ADMIN-2 : <a href=https://t.me/Malayali_No2>മലയꫂള ᭄℡𓆈</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
@@ -64,18 +64,18 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://www.instagram.com/LazyDeveloperrr>Direct Message</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Malayali_No2>Direct Message</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw>Watch Tutorial</a>
+» 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏 : <a href=https://t.me/mallumovies_1>Ｊᗝ𝐈ᑎ</a>
 
-• 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
-• 😈 <a href=https://t.me/mRiderDM>Direct-Msg-TG</a>
-• 😈 <a href=https://t.me/real_MoviesAdda1>Join Movies Adda</a>
-• 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
+• 😈 <a href=https://t.me/BoSs_A10>🍃⃝ ලബꫂസ്സᤨ ⸙⃝💔</a>
+• 😈 <a href=https://t.me/Malayali_No2>✑ മലയꫂള ᭄℡🌬🫧𓆈</a>
+• 😈 <a href=https://t.me/THanTHo_nni>⋆⏤͟͟͞❥͢➳ꫧꪆලന്തꪆ൬ ᭄❥͢⏤⋆</a>
+• 😈 <a href=https://t.me/+GDQwGcdPjEo1MWUx>ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ</a>
+• 😈 <a href=https://t.me/mallumovies_1>ʍօʋɨɛ ɢʀօʊք</a>
 """
