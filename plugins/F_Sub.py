@@ -16,7 +16,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/LazyDeveloper 
+Telegram Link : https://t.me/m_movies_23
 Repo Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT
 License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/main/LICENSE
 """
